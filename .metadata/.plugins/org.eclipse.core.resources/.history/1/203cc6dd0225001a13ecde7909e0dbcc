@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package java8;
+
+/**
+ * @author evaristosrodrigues
+ *
+ */
+public class SteamsExamples {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
