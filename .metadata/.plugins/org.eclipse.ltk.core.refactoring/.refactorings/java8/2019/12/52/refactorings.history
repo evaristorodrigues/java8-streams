@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;java8.SteamsExamples&apos; to &apos;StreamsExamples&apos;&#x0A;- Original project: &apos;java8&apos;&#x0A;- Original element: &apos;java8.SteamsExamples&apos;&#x0A;- Renamed element: &apos;java8.StreamsExamples&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SteamsExamples&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/br.com.java8.streams&lt;java8{SteamsExamples.java[SteamsExamples" matchStrategy="1" name="StreamsExamples" qualified="false" references="true" similarDeclarations="false" stamp="1577050504712" textual="false" version="1.0"/>
+</session>
